@@ -1,0 +1,20 @@
+<svg width="800" height="450" viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="450" fill="#E8E2D8"/>
+  <rect x="36" y="32" width="728" height="386" rx="8" fill="#F8F6F1"/>
+  <text x="72" y="88" fill="#14251E" font-family="Arial, sans-serif" font-size="38" font-weight="700">S/</text>
+  <text x="132" y="82" fill="#526058" font-family="Arial, sans-serif" font-size="15" letter-spacing="4">SPRINT CLOTHES</text>
+  <circle cx="690" cy="73" r="13" stroke="#14251E" stroke-width="3"/>
+  <path d="M699 83L713 97" stroke="#14251E" stroke-width="3" stroke-linecap="round"/>
+  <rect x="72" y="124" width="204" height="238" rx="4" fill="#C3D0BD"/>
+  <path d="M129 177L160 148H188L219 177L239 334H109L129 177Z" fill="#F7F2E8"/>
+  <path d="M155 148C156 163 164 172 174 172C184 172 192 163 193 148" stroke="#B7B0A5" stroke-width="4"/>
+  <text x="91" y="337" fill="#526058" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">ESSENTIAL / 01</text>
+  <rect x="298" y="124" width="204" height="238" rx="4" fill="#BCA99A"/>
+  <path d="M355 177L386 148H414L445 177L465 334H335L355 177Z" fill="#3B2C27"/>
+  <path d="M381 148C382 163 390 172 400 172C410 172 418 163 419 148" stroke="#82736A" stroke-width="4"/>
+  <text x="317" y="337" fill="#604C43" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">STREET / 02</text>
+  <rect x="524" y="124" width="204" height="238" rx="4" fill="#D4D8CD"/>
+  <path d="M581 177L612 148H640L671 177L691 334H561L581 177Z" fill="#21342A"/>
+  <path d="M607 148C608 163 616 172 626 172C636 172 644 163 645 148" stroke="#A5C1AD" stroke-width="4"/>
+  <text x="543" y="337" fill="#526058" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">NEW / 03</text>
+</svg>
